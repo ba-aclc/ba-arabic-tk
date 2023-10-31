@@ -1,7 +1,5 @@
 Ba Arabic tk
 ===========
-.. image:: https://github.com/ba-aclc/ba-arabic-tk/actions/workflows/tests.yml/badge.svg
-   :target: https://github.com/ba-aclc/ba_arabic_tk/actions/workflows/tests.yml
 .. image:: https://img.shields.io/badge/License-GPLv3-blue.svg
    :target: https://opensource.org/licenses/GPL-3.0
 
